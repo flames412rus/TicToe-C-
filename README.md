@@ -1,2 +1,2 @@
-# TicToe-C-
+# TicToe-C#
 Tic-Toe game project
